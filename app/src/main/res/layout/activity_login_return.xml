@@ -10,7 +10,7 @@
         android:id="@+id/LoginScreen"
         android:layout_width="105dp"
         android:layout_height="23dp"
-        android:text="Login Screen"
+        android:text="Akhil PV"
         tools:layout_editor_absoluteX="25dp"
         tools:layout_editor_absoluteY="16dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
